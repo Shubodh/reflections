@@ -1,0 +1,6 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It compared and contrasted the areas only where there was a difference.
+
+How can you use the commands git log and git diff to view the history of files?
+Have written in the notes :)
+dcnnsl
