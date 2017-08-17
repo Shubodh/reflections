@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+.git file gets created. So as to enable version control by saying it this is where you start the commit thingy.
+
+belfei
